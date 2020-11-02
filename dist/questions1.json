@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Easy Questions",
+    "questions": [
+      {
+        "value": 100,
+        "question": ["What was Tandem previous name?",
+          "A. Devmynd",
+          "B. Tandem", 
+          "C. Burger Shack", 
+          "D. Extraordinary Humans"],
+        "answer": "Devmynd",
+        "answered": false
+      },
+      {
+        "value": 200,
+        "question": ["In Shakespeare's play Julius Caesar, Caesar's last words were...",
+          "A. Et tu, Brute?", 
+          "B. Iacta alea est!", 
+          "C. Vidi, vini, vici", 
+          "D. Aegri somnia vana"],
+        "answer": "Et tu, Brute?",
+        "answered": false
+      },
+      {
+        "value": 300,
+        "question": ["A group of tigers are referred to as:",
+          "A. Ambush", 
+          "B. Chowder", 
+          "C. Pride", 
+          "D. Destruction"],
+        "answer": "Ambush",
+        "answered": false
+      },
+      {
+        "value": 400,
+        "question": ["What is the top speed an average cat can travel?",
+          "A. 31 mph",
+          "B. 42 mph", 
+          "C. 13 mph", 
+          "D. 9 mph"],
+        "answer": "31 mph",
+        "answered": false
+      }
+    ]
+  },
+  {
+    "name": "Hard Questions",
+    "questions": [
+      {
+        "value": 100,
+        "question":  ["What is the only letter that doesn't appear in a US state name?",
+          "A. Q",
+          "B. M", 
+          "C. Z", 
+          "D. X"],
+        "answer": "Q",
+        "answered": false
+      },
+      {
+        "value": 200,
+        "question":["What is the name for a cow-bison hybrid?",
+          "A. Beefalo",
+          "B. Cowson", 
+          "C. Bicow", 
+          "D. Mooson"],
+        "answer": "Beefalo",
+        "answered": false
+      },
+      {
+        "value": 300,
+        "question": ["What is the largest freshwater lake in the world?",
+          "A. Lake Superior",
+          "B. Lake Baikal", 
+          "C. Lake Michigan", 
+          "D. Lake Victoria"],
+        "answer": "Lake Superior",
+        "answered": false
+      },
+      {
+        "value": 400,
+        "question": ["In a website address bar, what does WWW stand for?",
+          "A. World Wide Web", 
+          "B. Wild Wild West", 
+          "C. War World Web"],
+        "answer": "World Wide Web",
+        "answered": false
+      }
+      
+    ]
+  },
+  {
+    "name": "Other Questions",
+    "questions": [
+      {
+        "value": 100,
+        "question": ["According to Greek mythology, who was the first woman on Earth?",
+          "A. Pandora",
+          "B. Lilith", 
+          "C. Eve", 
+          "D. Hera"],
+        "answer": "Pandora",
+        "answered": false
+      },
+      {
+        "value": 200,
+        "question": ["In which European city would you find Orly airport?",
+          "A. Paris",
+          "B. London", 
+          "C. Belgium", 
+          "D. Munich"],
+        "answer": "Paris",
+        "answered": false
+      }
+      
+    ]
+  }
+
+]
+  
+   
+       
